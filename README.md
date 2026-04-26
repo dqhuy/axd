@@ -1,2 +1,1 @@
-# axd
-Hệ thống quản lý file lưu trữ
+# AXD - File Management System
